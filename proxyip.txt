@@ -1,8 +1,8 @@
-23.95.20.15#US
-154.12.40.42#US
-139.162.106.22#JP
-112.120.227.233#HK
-47.79.41.201#JP
-84.8.145.58#GB
-138.68.50.216#US
-64.181.218.67#US
+74.48.96.113#Error retrieving country
+74.48.57.50#Error retrieving country
+66.42.32.115#Error retrieving country
+202.81.230.146#Error retrieving country
+47.88.13.222#Error retrieving country
+134.98.133.229#Error retrieving country
+209.38.12.25#Error retrieving country
+84.8.145.58#Error retrieving country
