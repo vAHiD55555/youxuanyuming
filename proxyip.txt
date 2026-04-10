@@ -1,8 +1,8 @@
-185.197.30.6#US
-172.236.251.37#US
-161.33.7.163#JP
-223.17.51.108#HK
-8.221.126.227#US
-140.238.144.211#CA
-206.189.196.114#US
-40.233.77.216#CA
+107.175.209.186#Error retrieving country
+139.60.162.153#Error retrieving country
+172.238.6.57#Error retrieving country
+219.76.13.169#Error retrieving country
+47.251.170.5#Error retrieving country
+129.146.137.214#Error retrieving country
+165.22.182.16#Error retrieving country
+129.146.254.25#Error retrieving country
